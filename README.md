@@ -1,0 +1,2 @@
+# Nikke_Yunzai_Plugin
+一个适用于Yunzai的Nikke游戏数据相关查询
